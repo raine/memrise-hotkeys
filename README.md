@@ -29,7 +29,7 @@ Probably easier for the average user but an extension is required.
 
 1. Download [MemriseHotkeys.user.js](https://github.com/raneksi/memrise-hotkeys/raw/master/MemriseHotkeys.user.js) to your computer.
 2. Go to the extension view in Chrome ([chrome://extensions](chrome://extensions)).
-3. Drag `MemriseHotkeys.user.js` file on the extension page. It should say "Drop to install" as you do so.
+3. Drag the `MemriseHotkeys.user.js` file on the extension page. It should say "Drop to install" as you do so.
 
 ## Safari
 
