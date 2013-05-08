@@ -43,6 +43,7 @@ function main() {
 			var first = index.text()[0];
 			if (first in indexMap) {
 				index.text(indexMap[first] + '.');
+				index.css('font-variant', 'small-caps');
 			}
 		};
 	};
