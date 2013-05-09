@@ -3,7 +3,7 @@ memrise-hotkeys
 
 Makes the hotkeys for multiple choice questions more comfortable on Memrise
 
-![](http://raneksi.github.io/memrise-hotkeys/garden_multiple_choice.png)
+![](https://raw.github.com/raneksi/memrise-hotkeys/gh-pages/garden_multiple_choice.png)
 
 Also check out [Memrise Button](https://chrome.google.com/webstore/detail/memrise-button/mahhgdkliaknjffpmocpaglcoljnhodn), my Chrome extension for Memrise.
 
