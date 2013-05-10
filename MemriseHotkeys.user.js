@@ -47,7 +47,7 @@ function main() {
 				index.text(indexMap[first] + '.');
 				index.css('font-variant', 'small-caps');
 			}
-		};
+		}
 	};
 
 	var observer = new MutationSummary({
