@@ -18,7 +18,7 @@ I have tested the userscript on Chrome and Firefox using Greasemonkey.
 
 ## Chrome
 
-### Method 1
+### Method 1 (Recommended)
 
 The script is probably much easier to update with this method.
 
