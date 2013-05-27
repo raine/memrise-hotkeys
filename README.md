@@ -20,7 +20,7 @@ I have tested the userscript on Chrome and Firefox using Greasemonkey.
 
 ### Method 1 (Recommended)
 
-The script is probably much easier to update with this method.
+This method provides automatic updates for the script.
 
 1. Install [Tampermonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) on Chrome Store.
 2. Go to http://userscripts.org/scripts/source/166711.user.js and click **OK** to confirm installation.
