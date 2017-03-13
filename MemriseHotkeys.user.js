@@ -3,7 +3,7 @@
 // @description    Improves the hotkeys for multiple choice questions on Memrise
 // @match          https://www.memrise.com/course/*/garden/*
 // @match          https://www.memrise.com/garden/review/*
-// @version        0.1.1
+// @version        0.1.2
 // @updateURL      https://userscripts.org/scripts/source/166711.meta.js
 // @downloadURL    https://userscripts.org/scripts/source/166711.user.js
 // ==/UserScript==
