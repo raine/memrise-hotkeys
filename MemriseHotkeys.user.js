@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name           Memrise Hotkeys
 // @description    Improves the hotkeys for multiple choice questions on Memrise
-// @match          http://www.memrise.com/course/*/garden/*
-// @match          http://www.memrise.com/garden/water/*
+// @match          https://www.memrise.com/course/*/garden/*
+// @match          https://www.memrise.com/garden/review/*
 // @version        0.1.1
 // @updateURL      https://userscripts.org/scripts/source/166711.meta.js
 // @downloadURL    https://userscripts.org/scripts/source/166711.user.js
